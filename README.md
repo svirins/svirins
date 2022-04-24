@@ -1,12 +1,9 @@
 ### Hi there 👋 
 
 It's a 1/6 remainis of my old gh (svirins). gone with 2FA, keys and every single hardcopy...
-Nevertheless
+Nevertheless...
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-
-#### [](#hi-there)Hi there<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-
 * * *
 
 I'm Dzmitry, software engineer from Minsk, Belarus. I specialize in creating web apps using JAM Stack coupled with headless CMS.
