@@ -17,8 +17,9 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
 *   logical, efficient, well-documented code, following best practices
 *   honesty, reliability,responsibility
 *   keep learning (currently on Svelte)
+  
+  
 
-#### Follow me:
+follow me: [@svirins](https://www.twitter.com/svirins)
 
-[![Twitter URL]@svirins
 </article>
