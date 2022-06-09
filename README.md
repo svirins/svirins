@@ -11,14 +11,14 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
 *   React ecosystem 
 *   Serverless backends
 *   Headless CMS
-*   Building Ui with Tailwind CMS and Chakra UI
+*   UI powered by Tailwind CMS and Chakra UI
   
 #### Currently learning:
   
 *   Svelte and everything related 
   
 #### [](#things-i-code-with)Things I code with:
- 
+[![My Skills](https://skillicons.dev/icons?i=apollo, aws, docker, emotion, express, figma, firebase, gcp, graphql,jest,linux,mongodb.mysql,nextjs, postgres, prisma, react,supabase,tailwind,ts,vite, workers&perline=8)](https://skillicons.dev) 
 
 #### [](#my-values)My values:
 
