@@ -6,25 +6,17 @@ It's a 1/6 of my old account (svirins). Gone with stolen Yubikey.. Nevertheless:
 
 I'm Dzmitry, software engineer from Minsk, Belarus. 
 
-#### I specialize in working with:
+#### I specialize in working with React ecosystem and serverless backends
 
-*   React ecosystem 
-*   Serverless backends
-*   Headless CMS
-*   UI powered by Tailwind CMS and Chakra UI
-  
-#### Currently learning:
-  
-*   Svelte and everything related 
-  
 #### [](#things-i-code-with)Things I code with:
-[![My Skills](https://skillicons.dev/icons?i=apollo, aws, docker, emotion, express, figma, firebase, gcp, graphql,jest,linux,mongodb.mysql,nextjs, postgres, prisma, react,supabase,tailwind,ts,vite, workers&perline=8)](https://skillicons.dev) 
+  
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,emotion,express,figma,firebase,js,gcp,graphql,jest,linux,mongodb,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=7)](https://skillicons.dev)
 
 #### [](#my-values)My values:
 
 *   logical, efficient, well-documented code, following best practices
 *   honesty, reliability,responsibility
-*   keep learning
+*   keep learning (currently on Svelte)
 
 [![1](https://camo.githubusercontent.com/313dc105b2276f660b164d156875cfdb85abf55ec451c8a561ce6f5afb31a917/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73766972696e73267468656d653d626c75652d677265656e)](https://camo.githubusercontent.com/313dc105b2276f660b164d156875cfdb85abf55ec451c8a561ce6f5afb31a917/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73766972696e73267468656d653d626c75652d677265656e)
 
