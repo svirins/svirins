@@ -6,13 +6,23 @@ Nevertheless...
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 * * *
 
-I'm Dzmitry, software engineer from Minsk, Belarus. I specialize in creating web apps using JAM Stack coupled with headless CMS.
+I'm Dzmitry, software engineer from Minsk, Belarus. 
 
-#### [](#i-specialize-in-working-with)I specialize in working with::
+#### [](#i-specialize-in-working-with)I specialize in working with:
 
-*   React ecosystem
+*   React ecosystem (
+*   Serverless backends
+*   'Content is Data' approach (Sanity.io) 
 *   JAM Stack
 *   Headless CMS
+*   Building Ui with Tailwind CMS and Chakra UI
+  
+  
+  
+#### [](#i-specialize-in-working-with)Currently learning:
+  
+*   Svelte ecosystem
+  
 
 #### [](#things-i-code-with)Things I code with:
 
