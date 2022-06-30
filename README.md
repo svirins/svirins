@@ -8,7 +8,7 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
 
 #### I specialize in working with React ecosystem and serverless backends
 
-#### [](#things-i-code-with)Things I code with:
+## [](#things-i-code-with)Things I code with:
   
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,emotion,express,figma,firebase,js,gcp,graphql,jest,linux,mongodb,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=7)](https://skillicons.dev)
 
