@@ -13,6 +13,15 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,emotion,express,figma,firebase,js,gcp,graphql,jest,linux,mongodb,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=7)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   6 hrs 8 mins    ████████████████████▓░░░░   82.66 %
+JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+CSS          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+```
+
 <!--END_SECTION:waka-->
 
 #### [](#my-values)My values:
