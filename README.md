@@ -12,6 +12,9 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
   
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,emotion,express,figma,firebase,js,gcp,graphql,jest,linux,mongodb,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=7)](https://skillicons.dev)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### [](#my-values)My values:
 
 *   logical, efficient, well-documented code, following best practices
