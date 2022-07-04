@@ -30,7 +30,7 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 *   logical, efficient, well-documented code, following best practices
 *   honesty, reliability,responsibility
-*   keep learning (currently on Svelte)
+*   keep learning (currently on tRPC)
   
   
 
