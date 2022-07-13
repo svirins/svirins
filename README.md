@@ -17,10 +17,12 @@ I'm Dzmitry, software engineer from Minsk, Belarus.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   22 hrs 39 mins  ████████████████████▒░░░░   81.99 %
-JSON         2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JavaScript   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript   17 hrs 19 mins  ████████████████████▓░░░░   82.52 %
+JSON         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+JavaScript   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+CSS          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+XML          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
