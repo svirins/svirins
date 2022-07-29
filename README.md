@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-It's a 1/6 of my old account (svirins). Gone with stolen Yubikey.. Nevertheless:
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
 I'm Dzmitry, software engineer from Minsk, Belarus. 
