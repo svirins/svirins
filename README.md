@@ -9,12 +9,8 @@ Currently, relocating to Tbilisi 🇬🇪.
 In my free time I enjoy, cycling, swimming and books.
 ### [](#things-i-code-with)Technologies I use frequently::
  
-  
-  
 [![Svirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=svirins&show_icons=true&theme=redical)](https://github.com/anuraghazra/github-readme-stats)  
-  
-[![Svirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=svirins)](https://github.com/anuraghazra/github-readme-stats)  
-  
+    
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,js,graphql,jest,linux,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
   
 ### [](#WakaTime)Last week code stats:
