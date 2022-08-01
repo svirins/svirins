@@ -8,7 +8,7 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem and serverle
 - in my free time I enjoy, cycling, swimming and books.
   
 ### [](#things-i-code-with)Technologies I use frequently:
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,heroku,jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
 
 ### [](#WakaTime)Last week code stats:
 
