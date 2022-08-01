@@ -10,7 +10,6 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem and serverle
  
 [![Svirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=svirins&show_icons=true&theme=redical)](https://github.com/anuraghazra/github-readme-stats)  
     
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,heroku, jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
 
 
 ### [](#WakaTime)Last week code stats:
