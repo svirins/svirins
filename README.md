@@ -2,13 +2,11 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
-I'm Dzmitry, software engineer from Minsk, Belarus. 
-
-#### I specialize in working with React ecosystem and serverless backends
-
+I'm Dzmitry, Full Stack Developer passionate about React ecosystem and serverless backends
+In my free time I enjoy, cycling, swimming and good books.
 ### [](#things-i-code-with)Things I code with:
   
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,emotion,express,figma,firebase,js,gcp,graphql,jest,linux,mongodb,mysql,nextjs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=algolia,apollo,aws,chakra,docker,express,firebase,js,graphql,jest,linux,mysql,nextjs,postgres,prisma,react,sanity,stripe.supabase,tailwind,ts&perline=9)](https://skillicons.dev)
   
 ### [](#WakaTime)Last week code stats:
 
@@ -28,7 +26,7 @@ Other        32 mins         ▓░░░░░░░░░░░░░░░░
 
 *   logical, efficient, well-documented code, following best practices
 *   honesty, reliability,responsibility
-*   keep learning (currently on tRPC)
+*   learn iteratively
   
   
 
