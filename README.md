@@ -15,11 +15,12 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem and serverle
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 9 mins   ██████████████▒░░░░░░░░░░   56.77 %
-JavaScript   5 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-JSON         2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-CSS          2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+TypeScript   12 hrs 26 mins  ██████████████████████▒░░   89.19 %
+JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
