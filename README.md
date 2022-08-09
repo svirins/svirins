@@ -2,10 +2,11 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
-I'm Dzmitry, full-stack developer, passionate about React ecosystem and serverless backends.
-  
-- currently, relocating to Tbilisi 🇬🇪.  
-- in my free time I enjoy, cycling, swimming and books.
+I'm Dzmitry, full-stack developer, passionate about React ecosystem, TypeScript and serverless backends.
+
+- 10+ years of experience building products for clients across several countries;
+- currently working remotely for existing clients being open for new opportunities;
+- located in Tbilisi, 🇬🇪. I enjoy cycling, swimming and good books.  
   
 ### [](#things-i-code-with)Technologies I use frequently:
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
@@ -27,9 +28,10 @@ Other        24 mins         ▒░░░░░░░░░░░░░░░░
 
 #### [](#my-values)My values:
 
-*   logical, efficient, well-documented code, following best practices;
-*   honesty, reliability,responsibility;
-*   learn iteratively;
+* logical, efficient code, following best practices;
+* consistency over speed;
+* honesty, reliability, responsibility;
+* stay curious;
 
 ### [](#MoreStats)Even more stats:
 
