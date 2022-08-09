@@ -26,7 +26,7 @@ Other        24 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### [](#my-values)My values:
+### [](#my-values)My values:
 
 * logical, efficient code, following best practices;
 * consistency over speed;
