@@ -17,7 +17,7 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem, TypeScript 
 
 ```text
 TypeScript   1 hr 17 mins    ████████████▓░░░░░░░░░░░░   50.56 %
-JSON         48 mins         ████████░░░░░░░░░░░░░░░░░   31.70 %
+JSON         48 mins         ████████░░░░░░░░░░░░░░░░░   31.71 %
 Other        19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
 ```
 
