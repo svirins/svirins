@@ -16,9 +16,7 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem, TypeScript 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   41 mins         ██████████░░░░░░░░░░░░░░░   39.37 %
-JSON         36 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 %
-Other        19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Other        19 mins         ████████████▓░░░░░░░░░░░░   51.10 %
 ```
 
 <!--END_SECTION:waka-->
