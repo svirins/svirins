@@ -11,17 +11,6 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem, TypeScript 
 ### [](#things-i-code-with)Technologies I use frequently:
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
 
-### [](#WakaTime)Last week code stats:
-
-<!--START_SECTION:waka-->
-
-```text
-JSON         1 min           ████████████████████████▒   97.63 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-```
-
-<!--END_SECTION:waka-->
-
 ### [](#my-values)My values:
 
 * logical, efficient code, following best practices;
