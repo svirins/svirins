@@ -6,7 +6,7 @@ I'm Dzmitry, full-stack developer, passionate about React ecosystem, TypeScript 
 
 - 10+ years of experience building products for clients across several countries;
 - currently working remotely for existing clients being open for new opportunities;
-- located in Tbilisi, 🇬🇪. I enjoy cycling, swimming and good books.  
+- located in Batumi, 🇬🇪. I enjoy cycling, swimming and good books.  
   
 ### [](#things-i-code-with)Technologies I use frequently:
 [![My Skills](https://skillicons.dev/icons?i=apollo,aws,docker,express,firebase,graphql,jest,js,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts&perline=9)](https://skillicons.dev)
