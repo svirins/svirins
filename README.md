@@ -9,7 +9,7 @@ I'm Dzmitry, a full-stack developer with a passion for Next.js, TypeScript, and 
 - I live in Batumi 🌊🔆🇬🇪 and enjoy swimming, mountains and good books;
   
 ### [](#things-i-code-with)Technologies I use frequently:
-[![My Skills](https://skillicons.dev/icons?i=aws,bun,graphql,jest,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts,vercel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bun,css,graphql,jest,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts,vercel&perline=8)](https://skillicons.dev)
 
 ### [](#my-values)My values:
 
