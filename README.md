@@ -1,26 +1,11 @@
-### Hi, fellow ✋
+### Hi, I'm Dzmitry
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+Product engineer. I build web products end to end, and most of my time goes to the backend.
 
-I'm Dzmitry, a full-stack developer with a passion for Next.js, TypeScript, and databases.
+- 10+ years building products for clients in different countries
+- Last 2+ years: built and run an applicant tracking system for a US college network, from database design to deploy and monitoring
+- I use AI in my daily work: LLM features in production, evals, agent-based coding with Claude Code
 
-- 10+ years of experience building products for clients across several countries;
-- currently working with regular clients, but open to new opportunities;
-- I live in Batumi 🌊🔆🇬🇪 and enjoy swimming, mountains and good books;
-  
-### [](#things-i-code-with)Technologies I use frequently:
-[![My Skills](https://skillicons.dev/icons?i=aws,bun,css,graphql,jest,linux,mysql,nextjs,nodejs,postgres,prisma,react,supabase,tailwind,ts,vercel&perline=8)](https://skillicons.dev)
+**Stack:** TypeScript, Node.js, Bun, Next.js, Fastify, tRPC, Prisma, PostgreSQL, Redis, Azure
 
-### [](#my-values)My values:
-
-* consistency over speed;
-* keep coding standards and best practices;
-* be curious, learn iteratively;
-
-### [](#MoreStats)Even more stats:
-
-[![Svirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=svirins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
-  
-follow me: [@svirins](https://www.twitter.com/svirins)
-
-</article>
+Open to new projects. Email: sviri​ns@gmail.com
